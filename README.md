@@ -11,7 +11,6 @@ A system tray application for downloading videos from YouTube and Instagram.
 
 ## Credits
 - yt-dlp
-- playit
 
 ## Building
 1. Clone this repository.
