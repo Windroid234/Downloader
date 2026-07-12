@@ -9,9 +9,6 @@ A system tray application for downloading videos from YouTube and Instagram.
 - Automatic clipboard copying
 - Configuration and history persistence
 
-## Credits
-- yt-dlp
-
 ## Building
 1. Clone this repository.
 2. Run `cmake -B build` and `cmake --build build --config Release`.
@@ -20,3 +17,6 @@ A system tray application for downloading videos from YouTube and Instagram.
 ## Installing
 1. Compile `installer.iss` using Inno Setup Compiler.
 2. Run the generated setup executable.
+
+## Credits
+- yt-dlp
